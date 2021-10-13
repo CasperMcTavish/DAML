@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/MyClass.h
+
+/home/s1739002/Documents/DAML/Wk4/Euler/CppTemplate/src/main.cpp
+MyClass.h
+/home/s1739002/Documents/DAML/Wk4/Euler/CppTemplate/src/MyClass.h
+iostream
+-
+vector
+-
+string
+-
+numeric
+-
+chrono
+-
+

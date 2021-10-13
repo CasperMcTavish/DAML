@@ -1,0 +1,3 @@
+/home/s1739002/Documents/DAML/Wk4/Euler/CppTemplate/build/CMakeFiles/rebuild_cache.dir
+/home/s1739002/Documents/DAML/Wk4/Euler/CppTemplate/build/CMakeFiles/edit_cache.dir
+/home/s1739002/Documents/DAML/Wk4/Euler/CppTemplate/build/CMakeFiles/MyProgram.dir
