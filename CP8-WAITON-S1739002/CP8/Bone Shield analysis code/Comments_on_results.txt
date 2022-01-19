@@ -1,0 +1,6 @@
+
+Average ratio of bone cube against shield energy: 24.389
+Average ratio of lead cube against shield energy: 0.312
+
+This shows that for the lead, very little energy gets through to the uranium cube.
+For bone however, a lot of the e- particle events penetrate it and hit the cube, producing a large energy ratio.
